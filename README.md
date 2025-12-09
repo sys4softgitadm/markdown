@@ -100,6 +100,6 @@ Se necessitar de mais informação: **[Google](https://www.google.com)**
 
 - [Linka para secçao](#código-em-linha-e-em-bloco)
 - [Titulo 3](#título-3)
-- []()
-- []()
-- []()
+- [Enfatização](#enfatização)
+- [Código em linha e bloco](#código-em-linha-e-em-bloco)
+- [Mais detalhes...](https://laravel.com)
