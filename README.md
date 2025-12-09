@@ -95,5 +95,5 @@ $apelido = "Ribeiro"
 
 ---------------------------------------------------------
 # Links para fora
-Se necessitar de mais informação: [Google](https://www.google.com)
-
+Se necessitar de mais informação: [Google](https://www.google.com)  
+<a href="https://www.google.com">Google</a>
