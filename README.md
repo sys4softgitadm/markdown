@@ -52,7 +52,7 @@ Não ordenada
 # Código em linha e em bloco
 Podemos adicionar `codigo_em_linha()` e depois mais `outro_codigo();`
 
----
+---------------------------------------------------------
 
 Para código em bloco:
 ```json
@@ -62,7 +62,7 @@ Para código em bloco:
 }
 ```
 
-===
+---------------------------------------------------------
 
 ou em PHP
 ```php
