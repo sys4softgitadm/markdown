@@ -93,4 +93,7 @@ $apelido = "Ribeiro"
 |António |      antonio2025teste@gmail.com   |  +351 345345345 |
 |Carlos Manuel |      cmanuel@gmail.com   |  45787387 |
 
+---------------------------------------------------------
+# Links para fora
+Se necessitar de mais informação: [Google](https://www.google.com)
 
