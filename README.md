@@ -69,3 +69,15 @@ ou em PHP
 $nome = "João";
 $apelido = "Ribeiro"
 ```
+
+---------------------------------------------------------
+
+# Listas com checkagem
+- [x] Item 1
+- [x] Item 2
+- [ ] Item 3
+- [ ] Item 4
+
+🔖 Item 1  
+📌 Item 2  
+✒️ Item 3  
