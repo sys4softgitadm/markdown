@@ -103,3 +103,11 @@ Se necessitar de mais informação: **[Google](https://www.google.com)**
 - [Enfatização](#enfatização)
 - [Código em linha e bloco](#código-em-linha-e-em-bloco)
 - [Mais detalhes...](https://laravel.com)
+
+---------------------------------------------------------
+# Imagens
+![Paisagem do mar](https://services.meteored.com/img/article/por-que-el-mar-es-de-color-azul-1685269880797_512.jpeg)
+
+[![Tempo.pt](https://services.meteored.com/img/article/por-que-el-mar-es-de-color-azul-1685269880797_512.jpeg)](https://www.tempo.pt/)
+
+
