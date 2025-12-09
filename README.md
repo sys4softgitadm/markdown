@@ -98,4 +98,8 @@ $apelido = "Ribeiro"
 Se necessitar de mais informação: **[Google](https://www.google.com)**  
 <a href="https://www.google.com">Google</a>
 
-[Linka para secçao](#código-em-linha-e-em-bloco)
+- [Linka para secçao](#código-em-linha-e-em-bloco)
+- [Titulo 3](#título-3)
+- []()
+- []()
+- []()
