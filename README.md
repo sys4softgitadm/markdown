@@ -81,3 +81,16 @@ $apelido = "Ribeiro"
 🔖 Item 1  
 📌 Item 2  
 ✒️ Item 3  
+
+---------------------------------------------------------
+
+# Tabelas
+
+|Nome     |Email    |Telefone  |
+|:---      | :---:   | ---:    |
+|João     |      joao@gmail.com   |  123 |
+|Ana |      ana.teste@gmail.com   |  234456 |
+|António |      antonio2025teste@gmail.com   |  +351 345345345 |
+|Carlos Manuel |      cmanuel@gmail.com   |  45787387 |
+
+
